@@ -52,29 +52,29 @@ body{
 	background-attachment: fixed;
 }
 
-a{
+.a{
 	text-decoration: none;
 }
 
-a:active{
+.a:active{
 	text-decoration: overline;
 }
 
-a:hover{	
+.a:hover{	
 	color: #333;
 }
 
-a:visited{
+.a:visited{
 	color: #a9a;
 }
 
 
-li:hover{
+.li:hover{
 	background: #eee; 
 	list-style-image: url(short_arrow_right-512.png);
 }
 
-ul.content{
+.content{
 	text-transform: uppercase;
 	list-style-type: none;
 	font-size: 30px;
