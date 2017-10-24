@@ -1,0 +1,104 @@
+.name{
+	text-align: center;
+	font-size: 35px;
+	font-family: cursive;
+}
+
+.content1{
+	text-indent: 40px;
+	font-size: 18px;
+	text-align: justify;
+	font-weight:bold;
+	color: #222;
+}
+
+.content1:first-line{
+	font-size: 1.5em;
+	color: #a83;
+}
+
+.content1:first-letter{
+	color:#ea3
+}
+
+.main{
+	text-align: center;
+	font-size: 40px;
+	color: #333 ;
+	font-family: sans-serif;
+}
+
+.maindes{
+	font-family: cursive;
+	font-size: 0.5em;
+	color: #ccc;
+}
+	
+p.description{
+	font-size: 16px;
+	color: #888;
+	font-family: sans-serif;
+}
+
+html {
+	background-image: url("d:/КУРСИ/HTML/css/homework/seigaiha.png");
+	background-repeat: repeat;
+}
+
+body{
+	background-image: url(BA_new_icon.png);
+	background-position: top right;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:active{
+	text-decoration: overline;
+}
+
+a:hover{	
+	color: #333;
+}
+
+a:visited{
+	color: #a9a;
+}
+
+
+li:hover{
+	background: #eee; 
+	list-style-image: url(short_arrow_right-512.png);
+}
+
+ul.content{
+	text-transform: uppercase;
+	list-style-type: none;
+	font-size: 30px;
+	text-align: center;
+}
+
+.table{
+	font-size: 18px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.line1{
+	background-color: #666;
+	color: white;
+}
+
+.sumary:hover{
+	background-color: #ccc;
+}
+
+.sumary{
+	background-color: #a83; 
+}
+
+.line2:hover{
+	background-color: #ccc;
+}
